@@ -13,3 +13,5 @@ if b < c:
     print(cnt)
 else:
     print(-1)
+
+    
